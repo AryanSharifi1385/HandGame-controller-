@@ -1,0 +1,19 @@
+{
+  "mouse_sensitivity": 1.7,
+  "mouse_deadzone": 0.0025,
+  "mouse_max_step": 14,
+  "ui_theme": "Cyberpunk",
+  "key_move_left": "a",
+  "key_move_right": "d",
+  "key_move_forward": "w",
+  "key_move_backward": "s",
+  "key_jump": "space",
+  "key_interact": "e",
+  "key_fist_action": "f",
+  "key_sprint": "lshift",
+  "key_reload": "r",
+  "key_crouch": "c",
+  "key_ability": "q",
+  "key_ctrl": "lctrl",
+  "key_alt": "lalt"
+}
